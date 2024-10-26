@@ -2,7 +2,8 @@
 #define QBATTERY_H
 
 /***
- * 声明本控件参考了大佬“飞扬青云“的代码
+ * 声明:
+ * 本控件参考了大佬“飞扬青云“的代码
  * 意义：他本人的没有竖着的电池，顾本人做了一个
  * 参考代码来源：https://github.com/feiyangqingyun/QWidgetDemo
  *

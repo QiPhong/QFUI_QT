@@ -1,7 +1,8 @@
 ﻿#ifndef QPDIAL_H
 #define QPDIAL_H
 /***
- * 声明本控件参考了大佬“飞扬青云“的样品展示
+ * 声明
+ * 本控件参考了大佬“飞扬青云“的样品展示
  * 意义：他本人的没有提供代码，因此本人复刻一个
  * 展示样品来源：https://pan.baidu.com/s/1A5Gd77kExm8Co5ckT51vvQ#list/path=%2F
  *
